@@ -111,7 +111,7 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "circular-flotante",
+            "product": "circular-retroiluminado",
             "second_image": true,
             "image_padding": false,
             "secondary_background": false
