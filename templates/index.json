@@ -100,27 +100,26 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "product": {
+        "2ed26546-aecc-4c49-8ef3-1d7a7f67ebe6": {
           "type": "product",
           "settings": {
             "product": "circular-retroiluminado",
-            "second_image": true,
+            "second_image": false,
             "image_padding": false,
             "secondary_background": false
           }
         },
-        "50954707-1af3-4c48-9d06-f1bdd18e6b43": {
+        "3a45d8ba-87db-4e2d-a053-4313e35c4db7": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5372.jpg",
             "image_padding": false,
             "color_scheme": "background-1"
           }
         }
       },
       "block_order": [
-        "product",
-        "50954707-1af3-4c48-9d06-f1bdd18e6b43"
+        "2ed26546-aecc-4c49-8ef3-1d7a7f67ebe6",
+        "3a45d8ba-87db-4e2d-a053-4313e35c4db7"
       ],
       "settings": {
         "heading": "Pe",
