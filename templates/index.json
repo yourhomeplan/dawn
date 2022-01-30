@@ -142,7 +142,7 @@
         "collection": "destacados",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "portrait",
         "show_secondary_image": false,
         "add_image_padding": false,
