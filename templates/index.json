@@ -120,7 +120,7 @@
         "collection": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "mas-vendidos",
             "image_padding": false,
             "color_scheme": "accent-2"
           }
