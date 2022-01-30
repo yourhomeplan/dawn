@@ -88,7 +88,7 @@
         "collection": "destacados",
         "products_to_show": 4,
         "show_view_all": true,
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_ratio": "portrait",
         "show_secondary_image": false,
         "add_image_padding": false,
@@ -116,20 +116,11 @@
             "image_padding": false,
             "secondary_background": false
           }
-        },
-        "collection": {
-          "type": "collection",
-          "settings": {
-            "collection": "mas-vendidos",
-            "image_padding": false,
-            "color_scheme": "accent-2"
-          }
         }
       },
       "block_order": [
         "video",
-        "product",
-        "collection"
+        "product"
       ],
       "settings": {
         "heading": "",
