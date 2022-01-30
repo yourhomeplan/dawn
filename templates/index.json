@@ -100,12 +100,12 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "video": {
-          "type": "video",
+        "50954707-1af3-4c48-9d06-f1bdd18e6b43": {
+          "type": "image",
           "settings": {
-            "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-            "description": "Describe the video",
-            "image_padding": false
+            "image": "shopify:\/\/shop_images\/IMG_5372.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
           }
         },
         "product": {
@@ -119,7 +119,7 @@
         }
       },
       "block_order": [
-        "video",
+        "50954707-1af3-4c48-9d06-f1bdd18e6b43",
         "product"
       ],
       "settings": {
