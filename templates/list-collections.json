@@ -1,1 +1,17 @@
-{"sections":{"main":{"type":"main-list-collections","settings":{"title":"Colecciones","sort":"alphabetical","image_ratio":"square","color_scheme":"accent-1","image_padding":false}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Colecciones",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "color_scheme": "accent-1",
+        "image_padding": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

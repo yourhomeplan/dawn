@@ -1,1 +1,178 @@
-{"current":{"colors_solid_button_labels":"#ffffff","colors_accent_1":"#5d4037","colors_accent_2":"#0097a7","colors_text":"#000000","colors_outline_button_labels":"#121212","colors_background_1":"#ffffff","colors_background_2":"#000000","type_header_font":"roboto_n7","type_body_font":"roboto_n4","sale_badge_color_scheme":"accent-2","accent_icons":"text","social_twitter_link":"https:\/\/twitter.com\/tuplanhogar","social_facebook_link":"https:\/\/www.facebook.com\/tuplanhogarr","social_pinterest_link":"https:\/\/www.pinterest.es\/tuplanhogar\/","social_instagram_link":"https:\/\/www.instagram.com\/tuplanhogar.cl\/","social_tiktok_link":"https:\/\/www.tiktok.com\/@tuplanhogar","predictive_search_show_vendor":false,"favicon":"shopify:\/\/shop_images\/Favicon_18823099-65d9-4094-8808-13dc7ce0fe12.png","currency_code_enabled":true,"checkout_logo_image":"shopify:\/\/shop_images\/Square.png","checkout_accent_color":"#0097a7","checkout_button_color":"#5d4037","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"text":"OFERTAS TODO EL AÑO","color_scheme":"accent-2","link":"shopify:\/\/collections\/ofertas"}},"491b39a3-98ca-45ec-a109-b20bf9c08bb4":{"type":"announcement","disabled":true,"settings":{"text":"Disponibilidad inmediata, despachos a diario","color_scheme":"background-2","link":"shopify:\/\/policies\/shipping-policy"}}},"block_order":["announcement-bar-0","491b39a3-98ca-45ec-a109-b20bf9c08bb4"],"settings":{}},"header":{"type":"header","settings":{"color_scheme":"background-1","logo":"shopify:\/\/shop_images\/216859684_562416878121102_6841320017670919859_n_2496a5bf-0add-42f5-b0b8-18b6d58f6d08.jpg","logo_width":250,"logo_position":"middle-left","menu":"main-menu","show_line_separator":true,"enable_sticky_header":true}},"footer":{"type":"footer","blocks":{"47cbaaec-0e71-44a7-b978-9bd1d0c75d0c":{"type":"link_list","settings":{"heading":"Políticas de la tienda","menu":"pol-ticas-de-la-tienda"}},"e2c2e512-387c-430a-b3a6-91b1f2ef4c53":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/8D29D04D-882A-44D3-BC62-DB88FE226472.gif","image_width":200,"alignment":"center"}},"09eb37ee-6d15-44bb-908c-6b4e828a9684":{"type":"text","settings":{"heading":"Tu Plan Hogar SpA","subtext":"<p>Somos una Sociedad por Acciones registrada en Santiago de Chile con el RUT: 77.271.871-3<\/p>"}}},"block_order":["47cbaaec-0e71-44a7-b978-9bd1d0c75d0c","e2c2e512-387c-430a-b3a6-91b1f2ef4c53","09eb37ee-6d15-44bb-908c-6b4e828a9684"],"settings":{"color_scheme":"inverse","newsletter_enable":false,"newsletter_heading":"Suscríbete para novedades","show_social":true,"enable_country_selector":false,"enable_language_selector":false,"payment_enable":true}}},"content_for_index":[]},"presets":{"Default":{"colors_solid_button_labels":"#FFFFFF","colors_accent_1":"#121212","colors_accent_2":"#334FB4","colors_text":"#121212","colors_outline_button_labels":"#121212","colors_background_1":"#FFFFFF","colors_background_2":"#F3F3F3","type_header_font":"assistant_n4","type_body_font":"assistant_n4","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"color_scheme":"background-1"}}},"block_order":["announcement-bar-0"],"settings":{}}}},"Craft":{"colors_solid_button_labels":"#EFECEC","colors_accent_1":"#2A332F","colors_accent_2":"#476154","colors_text":"#1C1A1A","colors_outline_button_labels":"#7B8382","colors_background_1":"#EFECEC","colors_background_2":"#C1BCAE","type_header_font":"americana_n4","type_body_font":"quattrocento_sans_n4","sections":{"footer":{"type":"footer","blocks":{"menu":{"type":"link_list","settings":{}},"text":{"type":"text","settings":{}}},"block_order":["menu","text"],"settings":{"color_scheme":"accent-1"}}}}}}
+{
+  "current": {
+    "colors_solid_button_labels": "#ffffff",
+    "colors_accent_1": "#5d4037",
+    "colors_accent_2": "#0097a7",
+    "colors_text": "#000000",
+    "colors_outline_button_labels": "#121212",
+    "colors_background_1": "#ffffff",
+    "colors_background_2": "#000000",
+    "type_header_font": "roboto_n7",
+    "type_body_font": "roboto_n4",
+    "sale_badge_color_scheme": "accent-2",
+    "accent_icons": "text",
+    "social_twitter_link": "https:\/\/twitter.com\/tuplanhogar",
+    "social_facebook_link": "https:\/\/www.facebook.com\/tuplanhogarr",
+    "social_pinterest_link": "https:\/\/www.pinterest.es\/tuplanhogar\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/tuplanhogar.cl\/",
+    "social_tiktok_link": "https:\/\/www.tiktok.com\/@tuplanhogar",
+    "predictive_search_show_vendor": false,
+    "favicon": "shopify:\/\/shop_images\/Favicon_18823099-65d9-4094-8808-13dc7ce0fe12.png",
+    "currency_code_enabled": true,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Square.png",
+    "checkout_accent_color": "#0097a7",
+    "checkout_button_color": "#5d4037",
+    "sections": {
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "blocks": {
+          "announcement-bar-0": {
+            "type": "announcement",
+            "settings": {
+              "text": "OFERTAS TODO EL AÑO",
+              "color_scheme": "accent-2",
+              "link": "shopify:\/\/collections\/ofertas"
+            }
+          },
+          "491b39a3-98ca-45ec-a109-b20bf9c08bb4": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Disponibilidad inmediata, despachos a diario",
+              "color_scheme": "background-2",
+              "link": "shopify:\/\/policies\/shipping-policy"
+            }
+          }
+        },
+        "block_order": [
+          "announcement-bar-0",
+          "491b39a3-98ca-45ec-a109-b20bf9c08bb4"
+        ],
+        "settings": {
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "color_scheme": "background-1",
+          "logo": "shopify:\/\/shop_images\/216859684_562416878121102_6841320017670919859_n_2496a5bf-0add-42f5-b0b8-18b6d58f6d08.jpg",
+          "logo_width": 250,
+          "logo_position": "middle-left",
+          "menu": "main-menu",
+          "show_line_separator": true,
+          "enable_sticky_header": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "47cbaaec-0e71-44a7-b978-9bd1d0c75d0c": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Políticas de la tienda",
+              "menu": "pol-ticas-de-la-tienda"
+            }
+          },
+          "e2c2e512-387c-430a-b3a6-91b1f2ef4c53": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/8D29D04D-882A-44D3-BC62-DB88FE226472.gif",
+              "image_width": 200,
+              "alignment": "center"
+            }
+          },
+          "09eb37ee-6d15-44bb-908c-6b4e828a9684": {
+            "type": "text",
+            "settings": {
+              "heading": "Tu Plan Hogar SpA",
+              "subtext": "<p>Somos una Sociedad por Acciones registrada en Santiago de Chile con el RUT: 77.271.871-3<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "47cbaaec-0e71-44a7-b978-9bd1d0c75d0c",
+          "e2c2e512-387c-430a-b3a6-91b1f2ef4c53",
+          "09eb37ee-6d15-44bb-908c-6b4e828a9684"
+        ],
+        "settings": {
+          "color_scheme": "inverse",
+          "newsletter_enable": false,
+          "newsletter_heading": "Suscríbete para novedades",
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": true
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  },
+  "presets": {
+    "Default": {
+      "colors_solid_button_labels": "#FFFFFF",
+      "colors_accent_1": "#121212",
+      "colors_accent_2": "#334FB4",
+      "colors_text": "#121212",
+      "colors_outline_button_labels": "#121212",
+      "colors_background_1": "#FFFFFF",
+      "colors_background_2": "#F3F3F3",
+      "type_header_font": "assistant_n4",
+      "type_body_font": "assistant_n4",
+      "sections": {
+        "announcement-bar": {
+          "type": "announcement-bar",
+          "blocks": {
+            "announcement-bar-0": {
+              "type": "announcement",
+              "settings": {
+                "color_scheme": "background-1"
+              }
+            }
+          },
+          "block_order": [
+            "announcement-bar-0"
+          ],
+          "settings": {
+          }
+        }
+      }
+    },
+    "Craft": {
+      "colors_solid_button_labels": "#EFECEC",
+      "colors_accent_1": "#2A332F",
+      "colors_accent_2": "#476154",
+      "colors_text": "#1C1A1A",
+      "colors_outline_button_labels": "#7B8382",
+      "colors_background_1": "#EFECEC",
+      "colors_background_2": "#C1BCAE",
+      "type_header_font": "americana_n4",
+      "type_body_font": "quattrocento_sans_n4",
+      "sections": {
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "menu": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "menu",
+            "text"
+          ],
+          "settings": {
+            "color_scheme": "accent-1"
+          }
+        }
+      }
+    }
+  }
+}
