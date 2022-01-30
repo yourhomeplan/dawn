@@ -100,14 +100,6 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "50954707-1af3-4c48-9d06-f1bdd18e6b43": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5372.jpg",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
         "product": {
           "type": "product",
           "settings": {
@@ -116,14 +108,22 @@
             "image_padding": false,
             "secondary_background": false
           }
+        },
+        "50954707-1af3-4c48-9d06-f1bdd18e6b43": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5372.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
         }
       },
       "block_order": [
-        "50954707-1af3-4c48-9d06-f1bdd18e6b43",
-        "product"
+        "product",
+        "50954707-1af3-4c48-9d06-f1bdd18e6b43"
       ],
       "settings": {
-        "heading": "",
+        "heading": "Pe",
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
