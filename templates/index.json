@@ -81,6 +81,44 @@
         "full_width": true
       }
     },
+    "1643518583b0027683": {
+      "type": "multicolumn",
+      "blocks": {
+        "164351858274599923-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_5372_d6434f9a-5963-4232-80d0-4ee88948a12b.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "164351858274599923-1": {
+          "type": "column",
+          "settings": {
+            "title": "Diseño Personalizado",
+            "text": "<p>Mide ese lugar donde necesitas un espejo, elije tu marco favorito y nosotros lo elaboramos exactamente como lo tienes pensado. <\/p><p>Tenemos distintos marcos a elección, siendo la madera nuestra materia prima base. Diseña tu espejo ideal junto a nosotros.<\/p>",
+            "link_label": "Quiero cotizar",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "164351858274599923-0",
+        "164351858274599923-1"
+      ],
+      "settings": {
+        "title": "Tu Espejo a Medida",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "shopify:\/\/pages\/contact",
+        "swipe_on_mobile": false
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -232,55 +270,17 @@
         "color_scheme": "background-1",
         "full_width": true
       }
-    },
-    "1643518583b0027683": {
-      "type": "multicolumn",
-      "blocks": {
-        "164351858274599923-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5372_d6434f9a-5963-4232-80d0-4ee88948a12b.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "164351858274599923-1": {
-          "type": "column",
-          "settings": {
-            "title": "Diseño Personalizado",
-            "text": "<p>Mide ese lugar donde necesitas un espejo, elije tu marco favorito y nosotros lo elaboramos exactamente como lo tienes pensado. <\/p><p>Tenemos distintos marcos a elección, siendo la madera nuestra materia prima base. Diseña tu espejo ideal junto a nosotros.<\/p>",
-            "link_label": "Quiero cotizar",
-            "link": "shopify:\/\/pages\/contact"
-          }
-        }
-      },
-      "block_order": [
-        "164351858274599923-0",
-        "164351858274599923-1"
-      ],
-      "settings": {
-        "title": "",
-        "image_width": "full",
-        "image_ratio": "square",
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "shopify:\/\/pages\/contact",
-        "swipe_on_mobile": false
-      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
+    "1643518583b0027683",
     "featured_products",
     "collage",
     "164335353197418c3b",
     "video",
     "multi_column",
-    "1643355282342c905c",
-    "1643518583b0027683"
+    "1643355282342c905c"
   ]
 }
