@@ -135,38 +135,9 @@
         "show_rating": false
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "2ed26546-aecc-4c49-8ef3-1d7a7f67ebe6": {
-          "type": "product",
-          "settings": {
-            "product": "circular-retroiluminado",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
-          }
-        },
-        "3a45d8ba-87db-4e2d-a053-4313e35c4db7": {
-          "type": "image",
-          "settings": {
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "2ed26546-aecc-4c49-8ef3-1d7a7f67ebe6",
-        "3a45d8ba-87db-4e2d-a053-4313e35c4db7"
-      ],
-      "settings": {
-        "heading": "Pe",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
     "164335353197418c3b": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "",
@@ -183,6 +154,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Video Corporativo",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
@@ -277,7 +249,6 @@
     "rich_text",
     "1643518583b0027683",
     "featured_products",
-    "collage",
     "164335353197418c3b",
     "video",
     "multi_column",
