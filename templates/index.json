@@ -111,8 +111,8 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "sdsd",
-            "second_image": false,
+            "product": "circular-flotante",
+            "second_image": true,
             "image_padding": false,
             "secondary_background": false
           }
@@ -131,8 +131,8 @@
     "164335353197418c3b": {
       "type": "featured-collection",
       "settings": {
-        "title": "Más Vendidos",
-        "collection": "mas-vendidos",
+        "title": "",
+        "collection": "",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": false,
