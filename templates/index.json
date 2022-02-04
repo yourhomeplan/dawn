@@ -155,20 +155,11 @@
             "image_padding": false,
             "color_scheme": "background-1"
           }
-        },
-        "ec30b7a7-0220-49eb-b4f2-0cfd687d7bc9": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_6408.jpg",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
         }
       },
       "block_order": [
         "1643941385fe420155-0",
-        "1643941385fe420155-2",
-        "ec30b7a7-0220-49eb-b4f2-0cfd687d7bc9"
+        "1643941385fe420155-2"
       ],
       "settings": {
         "heading": "Brand Story",
