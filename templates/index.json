@@ -158,7 +158,7 @@
         "cover_image": "shopify:\/\/shop_images\/sddefault.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=e8lAl_i7xqA",
         "description": "Yourhomeplan brand story",
-        "full_width": true
+        "full_width": false
       }
     },
     "multi_column": {
