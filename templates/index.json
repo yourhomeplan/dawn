@@ -137,7 +137,6 @@
     },
     "1643941385e080d10e": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "1643941385fe420155-0": {
           "type": "video",
@@ -146,16 +145,6 @@
             "video_url": "https:\/\/www.youtube.com\/watch?v=e8lAl_i7xqA",
             "description": "Brand Story",
             "image_padding": false
-          }
-        },
-        "1643941385fe420155-1": {
-          "type": "product",
-          "disabled": true,
-          "settings": {
-            "product": "natural",
-            "second_image": false,
-            "image_padding": false,
-            "secondary_background": false
           }
         },
         "1643941385fe420155-2": {
@@ -170,7 +159,6 @@
       },
       "block_order": [
         "1643941385fe420155-0",
-        "1643941385fe420155-1",
         "1643941385fe420155-2"
       ],
       "settings": {
@@ -197,12 +185,13 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Brand Story",
         "cover_image": "shopify:\/\/shop_images\/maxresdefault.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=e8lAl_i7xqA",
         "description": "Brand story",
-        "full_width": false
+        "full_width": true
       }
     },
     "multi_column": {
