@@ -153,6 +153,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "Video Corporativo",
         "cover_image": "shopify:\/\/shop_images\/sddefault.jpg",
