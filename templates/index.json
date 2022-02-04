@@ -169,6 +169,7 @@
     },
     "164335353197418c3b": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "",
         "collection": "destacados",
