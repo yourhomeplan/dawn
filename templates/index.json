@@ -257,7 +257,7 @@
         "1643941385fe420155-1": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "natural",
             "second_image": false,
             "image_padding": false,
             "secondary_background": false
@@ -266,7 +266,7 @@
         "1643941385fe420155-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "mas-vendidos",
             "image_padding": false,
             "color_scheme": "background-1"
           }
