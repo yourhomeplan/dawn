@@ -137,6 +137,7 @@
     },
     "1643941385e080d10e": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "1643941385fe420155-0": {
           "type": "video",
@@ -196,10 +197,9 @@
     },
     "video": {
       "type": "video",
-      "disabled": true,
       "settings": {
-        "heading": "Video Corporativo",
-        "cover_image": "shopify:\/\/shop_images\/sddefault.jpg",
+        "heading": "Brand Story",
+        "cover_image": "shopify:\/\/shop_images\/maxresdefault.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=e8lAl_i7xqA",
         "description": "Yourhomeplan brand story",
         "full_width": false
