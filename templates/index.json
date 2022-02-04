@@ -153,12 +153,12 @@
     },
     "video": {
       "type": "video",
-      "disabled": true,
       "settings": {
         "heading": "Video Corporativo",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false
+        "cover_image": "shopify:\/\/shop_images\/sddefault.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=e8lAl_i7xqA",
+        "description": "Yourhomeplan brand story",
+        "full_width": true
       }
     },
     "multi_column": {
