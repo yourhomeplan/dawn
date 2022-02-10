@@ -153,7 +153,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/asss.jpg",
             "title": "",
-            "text": "<p><strong>DESCUBRE TU ESTILO DE DECORACIÓN SEGÚN TU PERSONALIDAD<\/strong><\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -169,8 +169,8 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Button label",
-        "button_link": "",
+        "button_label": "SABER MAS",
+        "button_link": "shopify:\/\/blogs\/descubre-tu-estilo-de-decoracion-segun-tu-personalidad",
         "swipe_on_mobile": true
       }
     },
