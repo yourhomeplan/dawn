@@ -167,21 +167,43 @@
         "mobile_layout": "collage"
       }
     },
-    "164335353197418c3b": {
-      "type": "featured-collection",
-      "disabled": true,
+    "164445941354288f2f": {
+      "type": "collage",
+      "blocks": {
+        "6c198a4d-fe95-4993-b047-3b6eae794a31": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/imagen_pagina.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "569c964d-cbe0-4716-b46c-5b5961d9709a": {
+          "type": "image",
+          "settings": {
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "1644459413ebeaa896-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "second_image": true,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        }
+      },
+      "block_order": [
+        "6c198a4d-fe95-4993-b047-3b6eae794a31",
+        "569c964d-cbe0-4716-b46c-5b5961d9709a",
+        "1644459413ebeaa896-1"
+      ],
       "settings": {
-        "title": "",
-        "collection": "destacados",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "portrait",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": false,
-        "show_vendor": false,
-        "show_rating": false
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
       }
     },
     "video": {
@@ -283,7 +305,7 @@
     "featured_products",
     "1643518583b0027683",
     "1643941385e080d10e",
-    "164335353197418c3b",
+    "164445941354288f2f",
     "video",
     "multi_column",
     "1643355282342c905c"
