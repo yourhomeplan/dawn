@@ -138,31 +138,32 @@
     "16444594386881cdff": {
       "type": "image-banner",
       "blocks": {
-        "16444594383dc80563-0": {
+        "6bd4c02c-0d6a-4f1e-ba7f-c20e9c6637ef": {
           "type": "heading",
           "settings": {
-            "heading": "Decora tus espacios",
+            "heading": "Personaliza tu espacio",
             "heading_size": "medium"
           }
         },
-        "e2d7a545-5428-4452-8bbf-213d9ce40b26": {
+        "69fd3466-b818-4245-b22c-463ed39b5f54": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
+            "text": "Descubre tu estilo de decoración según tu personalidad"
           }
         }
       },
       "block_order": [
-        "16444594383dc80563-0",
-        "e2d7a545-5428-4452-8bbf-213d9ce40b26"
+        "6bd4c02c-0d6a-4f1e-ba7f-c20e9c6637ef",
+        "69fd3466-b818-4245-b22c-463ed39b5f54"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_6053.jpg",
         "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
         "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
