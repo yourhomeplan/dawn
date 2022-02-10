@@ -156,7 +156,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/CLAO.jpg",
         "image_height": "medium",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": false,
         "image_overlay_opacity": 0,
