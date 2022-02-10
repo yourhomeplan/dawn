@@ -195,46 +195,13 @@
         "layout": "text_first"
       }
     },
-    "1643941385e080d10e": {
-      "type": "collage",
-      "blocks": {
-        "1643941385fe420155-0": {
-          "type": "video",
-          "settings": {
-            "cover_image": "shopify:\/\/shop_images\/IMG_6406.jpg",
-            "video_url": "https:\/\/www.youtube.com\/watch?v=e8lAl_i7xqA",
-            "description": "Brand Story",
-            "image_padding": false
-          }
-        },
-        "1643941385fe420155-2": {
-          "type": "collection",
-          "disabled": true,
-          "settings": {
-            "collection": "mas-vendidos",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "1643941385fe420155-0",
-        "1643941385fe420155-2"
-      ],
-      "settings": {
-        "heading": "Brand Story",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
-    },
     "video": {
       "type": "video",
-      "disabled": true,
       "settings": {
-        "heading": "Brand Story",
-        "cover_image": "shopify:\/\/shop_images\/maxresdefault.jpg",
+        "heading": "PRODUCTO DE LA MARCA",
+        "cover_image": "shopify:\/\/shop_images\/IMG_6406.jpg",
         "video_url": "https:\/\/www.youtube.com\/watch?v=e8lAl_i7xqA",
-        "description": "Brand story",
+        "description": "",
         "full_width": true
       }
     },
@@ -327,7 +294,6 @@
     "1643518583b0027683",
     "16444594386881cdff",
     "1644460662d1622fa1",
-    "1643941385e080d10e",
     "video",
     "multi_column",
     "1643355282342c905c"
