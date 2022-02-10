@@ -169,8 +169,8 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "SABER MAS",
-        "button_link": "shopify:\/\/blogs\/descubre-tu-estilo-de-decoracion-segun-tu-personalidad",
+        "button_label": "",
+        "button_link": "",
         "swipe_on_mobile": true
       }
     },
