@@ -174,7 +174,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/imagen_pagina.jpg",
-            "image_padding": false,
+            "image_padding": true,
             "color_scheme": "background-1"
           }
         },
