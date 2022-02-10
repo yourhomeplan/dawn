@@ -97,67 +97,6 @@
         "show_rating": false
       }
     },
-    "1644460662d1622fa1": {
-      "type": "image-with-text",
-      "blocks": {
-        "16444606629a583abf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>MODERNIZA TU ESPACIO<\/strong><\/p><p>LA ÚLTIMA TENDENCIA PARA TU BAÑO, UN ESPEJO REDONDO<\/p>"
-          }
-        },
-        "16444606629a583abf-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Comprar",
-            "button_link": "shopify:\/\/products\/circular-retroiluminado"
-          }
-        }
-      },
-      "block_order": [
-        "16444606629a583abf-1",
-        "16444606629a583abf-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BANO_6c435788-651b-49b5-9c62-db4064b5fa0c.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
-    "16444594386881cdff": {
-      "type": "image-banner",
-      "blocks": {
-        "6bd4c02c-0d6a-4f1e-ba7f-c20e9c6637ef": {
-          "type": "heading",
-          "settings": {
-            "heading": "Personaliza tu espacio",
-            "heading_size": "medium"
-          }
-        },
-        "69fd3466-b818-4245-b22c-463ed39b5f54": {
-          "type": "text",
-          "settings": {
-            "text": "Descubre tu estilo de decoración según tu personalidad"
-          }
-        }
-      },
-      "block_order": [
-        "6bd4c02c-0d6a-4f1e-ba7f-c20e9c6637ef",
-        "69fd3466-b818-4245-b22c-463ed39b5f54"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_6053.jpg",
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "accent-2",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1643518583b0027683": {
       "type": "multicolumn",
       "blocks": {
@@ -194,6 +133,73 @@
         "button_label": "",
         "button_link": "shopify:\/\/pages\/contact",
         "swipe_on_mobile": false
+      }
+    },
+    "16444652299f8fe5c0": {
+      "type": "multicolumn",
+      "blocks": {
+        "0cf6af3c-757e-4cac-822a-7e68208d9d6b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6053.jpg",
+            "title": "",
+            "text": "<p>El decorado es una forma de reflejar nuestra personalidad en el espacio que vivimos. La vivienda es el reflejo del estilo de vida porque cada individuo es único. Una de las mejores maneras de demostrar tu esencia es la de decorar. Cada espacio que diseñamos es una forma de expresión de nuestra manera de ser.<\/p><p>Cuando hablamos de decoración de interiores tenemos que pensar que va entrelazado con la manera en que nos sentimos. De esta forma podemos descubrir cuál estilo de vida se adapta a nuestra forma de ser. Lo primero que tenemos que tomar en cuenta es que el estilo de vida es la interacción de nuestros pensamientos, sentimientos, objetivos, actitudes y valores.<\/p><p>En este caso la escenografía de la casa es el reflejo de la personalidad de los que viven en ella. Todos los elementos dibujan un sello de personalidad irrevocable que va acorde con los dueños y autores de la ambientación.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "85b10aa4-62ad-4708-9dc2-7b8c75ed39cf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/descarga.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "0cf6af3c-757e-4cac-822a-7e68208d9d6b",
+        "85b10aa4-62ad-4708-9dc2-7b8c75ed39cf"
+      ],
+      "settings": {
+        "title": "DESCUBRE TU ESTILO DE DECORACIÓN SEGÚN TU PERSONALIDAD",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
+    "1644460662d1622fa1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16444606629a583abf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>MODERNIZA TU ESPACIO<\/strong><\/p><p>LA ÚLTIMA TENDENCIA PARA TU BAÑO, UN ESPEJO REDONDO<\/p>"
+          }
+        },
+        "16444606629a583abf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar",
+            "button_link": "shopify:\/\/products\/circular-retroiluminado"
+          }
+        }
+      },
+      "block_order": [
+        "16444606629a583abf-1",
+        "16444606629a583abf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BANO_6c435788-651b-49b5-9c62-db4064b5fa0c.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
       }
     },
     "video": {
@@ -292,9 +298,9 @@
     "image_banner",
     "rich_text",
     "featured_products",
-    "1644460662d1622fa1",
-    "16444594386881cdff",
     "1643518583b0027683",
+    "16444652299f8fe5c0",
+    "1644460662d1622fa1",
     "video",
     "multi_column",
     "1643355282342c905c"
