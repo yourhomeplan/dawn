@@ -169,8 +169,8 @@
         "image_ratio": "adapt",
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "",
-        "button_link": "",
+        "button_label": "VER ESPEJOS",
+        "button_link": "shopify:\/\/collections\/all",
         "swipe_on_mobile": true
       }
     },
