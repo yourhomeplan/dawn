@@ -97,6 +97,67 @@
         "show_rating": false
       }
     },
+    "1644460662d1622fa1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16444606629a583abf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>MODERNIZA TU ESPACIO<\/strong><\/p><p>LA ÚLTIMA TENDENCIA PARA TU BAÑO, UN ESPEJO REDONDO<\/p>"
+          }
+        },
+        "16444606629a583abf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar",
+            "button_link": "shopify:\/\/products\/circular-retroiluminado"
+          }
+        }
+      },
+      "block_order": [
+        "16444606629a583abf-1",
+        "16444606629a583abf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BANO_6c435788-651b-49b5-9c62-db4064b5fa0c.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
+      }
+    },
+    "16444594386881cdff": {
+      "type": "image-banner",
+      "blocks": {
+        "6bd4c02c-0d6a-4f1e-ba7f-c20e9c6637ef": {
+          "type": "heading",
+          "settings": {
+            "heading": "Personaliza tu espacio",
+            "heading_size": "medium"
+          }
+        },
+        "69fd3466-b818-4245-b22c-463ed39b5f54": {
+          "type": "text",
+          "settings": {
+            "text": "Descubre tu estilo de decoración según tu personalidad"
+          }
+        }
+      },
+      "block_order": [
+        "6bd4c02c-0d6a-4f1e-ba7f-c20e9c6637ef",
+        "69fd3466-b818-4245-b22c-463ed39b5f54"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_6053.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "accent-2",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "1643518583b0027683": {
       "type": "multicolumn",
       "blocks": {
@@ -133,67 +194,6 @@
         "button_label": "",
         "button_link": "shopify:\/\/pages\/contact",
         "swipe_on_mobile": false
-      }
-    },
-    "16444594386881cdff": {
-      "type": "image-banner",
-      "blocks": {
-        "6bd4c02c-0d6a-4f1e-ba7f-c20e9c6637ef": {
-          "type": "heading",
-          "settings": {
-            "heading": "Personaliza tu espacio",
-            "heading_size": "medium"
-          }
-        },
-        "69fd3466-b818-4245-b22c-463ed39b5f54": {
-          "type": "text",
-          "settings": {
-            "text": "Descubre tu estilo de decoración según tu personalidad"
-          }
-        }
-      },
-      "block_order": [
-        "6bd4c02c-0d6a-4f1e-ba7f-c20e9c6637ef",
-        "69fd3466-b818-4245-b22c-463ed39b5f54"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_6053.jpg",
-        "image_height": "small",
-        "adapt_height_first_image": false,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": true,
-        "image_overlay_opacity": 0,
-        "color_scheme": "accent-2",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "1644460662d1622fa1": {
-      "type": "image-with-text",
-      "blocks": {
-        "16444606629a583abf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>MODERNIZA TU ESPACIO<\/strong><\/p><p>LA ÚLTIMA TENDENCIA PARA TU BAÑO, UN ESPEJO REDONDO<\/p>"
-          }
-        },
-        "16444606629a583abf-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Comprar",
-            "button_link": "shopify:\/\/products\/circular-retroiluminado"
-          }
-        }
-      },
-      "block_order": [
-        "16444606629a583abf-1",
-        "16444606629a583abf-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BANO_6c435788-651b-49b5-9c62-db4064b5fa0c.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
       }
     },
     "video": {
@@ -292,9 +292,9 @@
     "image_banner",
     "rich_text",
     "featured_products",
-    "1643518583b0027683",
-    "16444594386881cdff",
     "1644460662d1622fa1",
+    "16444594386881cdff",
+    "1643518583b0027683",
     "video",
     "multi_column",
     "1643355282342c905c"
