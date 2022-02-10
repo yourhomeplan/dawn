@@ -223,8 +223,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/BANO_6c435788-651b-49b5-9c62-db4064b5fa0c.jpg",
         "height": "adapt",
-        "color_scheme": "accent-1",
-        "layout": "image_first"
+        "color_scheme": "background-1",
+        "layout": "text_first"
       }
     },
     "video": {
