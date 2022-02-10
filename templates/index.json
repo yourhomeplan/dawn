@@ -167,44 +167,64 @@
         "mobile_layout": "collage"
       }
     },
-    "164445941354288f2f": {
-      "type": "collage",
-      "disabled": true,
+    "16444594386881cdff": {
+      "type": "image-banner",
       "blocks": {
-        "6c198a4d-fe95-4993-b047-3b6eae794a31": {
-          "type": "image",
+        "16444594383dc80563-0": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/imagen_pagina.jpg",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "heading": "Decora tus espacios",
+            "heading_size": "medium"
           }
         },
-        "569c964d-cbe0-4716-b46c-5b5961d9709a": {
-          "type": "image",
+        "e2d7a545-5428-4452-8bbf-213d9ce40b26": {
+          "type": "text",
           "settings": {
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        },
-        "1644459413ebeaa896-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": true,
-            "image_padding": false,
-            "secondary_background": false
+            "text": "Give customers details about the banner image(s) or content on the template."
           }
         }
       },
       "block_order": [
-        "6c198a4d-fe95-4993-b047-3b6eae794a31",
-        "569c964d-cbe0-4716-b46c-5b5961d9709a",
-        "1644459413ebeaa896-1"
+        "16444594383dc80563-0",
+        "e2d7a545-5428-4452-8bbf-213d9ce40b26"
       ],
       "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "flex-end",
+        "show_text_box": true,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1644460662d1622fa1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16444606629a583abf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>MODERNIZA TU ESPACIO<\/strong><\/p><p>LA ÚLTIMA TENDENCIA PARA TU BAÑO, UN ESPEJO REDONDO<\/p>"
+          }
+        },
+        "16444606629a583abf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar",
+            "button_link": "shopify:\/\/products\/circular-retroiluminado"
+          }
+        }
+      },
+      "block_order": [
+        "16444606629a583abf-1",
+        "16444606629a583abf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BANO_6c435788-651b-49b5-9c62-db4064b5fa0c.jpg",
+        "height": "adapt",
+        "color_scheme": "accent-2",
+        "layout": "image_first"
       }
     },
     "video": {
@@ -306,7 +326,8 @@
     "featured_products",
     "1643518583b0027683",
     "1643941385e080d10e",
-    "164445941354288f2f",
+    "16444594386881cdff",
+    "1644460662d1622fa1",
     "video",
     "multi_column",
     "1643355282342c905c"
