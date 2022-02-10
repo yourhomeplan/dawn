@@ -153,8 +153,8 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/asss.jpg",
             "title": "",
-            "text": "",
-            "link_label": "",
+            "text": "<p><strong>QUE TU DECORACIÓN<\/strong><\/p><p><strong> REFLEJE TU PERSONALIDAD<\/strong><\/p>",
+            "link_label": "SABER MAS",
             "link": ""
           }
         }
@@ -164,7 +164,7 @@
         "85b10aa4-62ad-4708-9dc2-7b8c75ed39cf"
       ],
       "settings": {
-        "title": "QUE TU DECORACIÓN REFLEJE TU PERSONALIDAD",
+        "title": "",
         "image_width": "full",
         "image_ratio": "adapt",
         "column_alignment": "left",
