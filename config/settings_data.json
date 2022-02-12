@@ -85,7 +85,7 @@
             "type": "text",
             "settings": {
               "heading": "Tu Plan Hogar SpA",
-              "subtext": "<p>Somos una Sociedad por Acciones registrada en Santiago de Chile con el RUT: 77.271.871-3<\/p>"
+              "subtext": "<p>Somos una sociedad por acciones registrada en <strong>Santiago de Chile<\/strong> con el RUT: 77.271.871-3<\/p>"
             }
           }
         },
