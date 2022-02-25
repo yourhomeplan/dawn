@@ -114,7 +114,7 @@
           "type": "column",
           "settings": {
             "title": "Diseño Personalizado",
-            "text": "<p>Mide ese lugar donde necesitas un espejo, elije tu forma favorita y nosotros lo elaboramos exactamente como lo tienes pensado. <\/p><p>Diseña tu espejo ideal junto a nosotros.<\/p><p>Pídelo por el Chat de la tienda online en el botón de la esquina inferior izquierda.<\/p>",
+            "text": "<p>Mide ese lugar donde necesitas un espejo, elije tu forma favorita y nosotros lo elaboramos exactamente como lo tienes pensado. <\/p><p>Diseña tu espejo ideal junto a nosotros.<\/p><p><\/p>",
             "link_label": "Quiero cotizar",
             "link": "shopify:\/\/pages\/contact"
           }
