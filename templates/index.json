@@ -323,40 +323,20 @@
         "full_width": true
       }
     },
-    "16474108120ec97dcd": {
-      "type": "collection-list",
-      "blocks": {
-        "164741081225e32039-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "decoracion-de-pared"
-          }
-        },
-        "164741081225e32039-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "espejos-de-bano"
-          }
-        },
-        "164741081225e32039-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "muebles-decorativos"
-          }
-        }
-      },
-      "block_order": [
-        "164741081225e32039-0",
-        "164741081225e32039-1",
-        "164741081225e32039-2"
-      ],
+    "1647410995643f95d1": {
+      "type": "featured-collection",
       "settings": {
-        "title": "Collections",
-        "image_ratio": "square",
-        "color_scheme": "background-1",
+        "title": "Decoración de pared",
+        "collection": "decoracion-de-pared",
+        "products_to_show": 4,
+        "show_view_all": true,
         "swipe_on_mobile": false,
-        "image_padding": false,
-        "show_view_all": false
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     }
   },
@@ -371,6 +351,6 @@
     "video",
     "multi_column",
     "1643355282342c905c",
-    "16474108120ec97dcd"
+    "1647410995643f95d1"
   ]
 }
