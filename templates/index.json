@@ -322,6 +322,42 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "16474108120ec97dcd": {
+      "type": "collection-list",
+      "blocks": {
+        "164741081225e32039-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "decoracion-de-pared"
+          }
+        },
+        "164741081225e32039-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "164741081225e32039-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "164741081225e32039-0",
+        "164741081225e32039-1",
+        "164741081225e32039-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "image_ratio": "square",
+        "color_scheme": "background-1",
+        "swipe_on_mobile": false,
+        "image_padding": false,
+        "show_view_all": false
+      }
     }
   },
   "order": [
@@ -334,6 +370,7 @@
     "1644460662d1622fa1",
     "video",
     "multi_column",
-    "1643355282342c905c"
+    "1643355282342c905c",
+    "16474108120ec97dcd"
   ]
 }
