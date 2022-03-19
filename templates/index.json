@@ -36,7 +36,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/ARRIBA.jpg",
         "image_height": "small",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
         "show_text_box": false,
         "image_overlay_opacity": 20,
