@@ -197,16 +197,24 @@
           "settings": {
             "button_label_1": "DISEÑO PERSONALIZADO",
             "button_link_1": "shopify:\/\/pages\/contact",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "VER MODELOS DISPONIBLES",
             "button_link_2": "shopify:\/\/products\/iregulares-grandes",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
+          }
+        },
+        "dcca9656-3d92-4285-ac4a-28238637646c": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
           }
         }
       },
       "block_order": [
         "d8b6a99c-7aa8-4048-8a2b-cd76404c1bd5",
-        "1644472934f1436359-2"
+        "1644472934f1436359-2",
+        "dcca9656-3d92-4285-ac4a-28238637646c"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7785.jpg",
