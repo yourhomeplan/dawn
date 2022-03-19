@@ -47,7 +47,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -71,6 +70,7 @@
         },
         "b22842f4-eaa3-4399-894b-caed0419375a": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Somos una gran familia especializada en el sector de la cristalería. Nuestra política empresarial se basa en los pilares de la innovación, la sostenibilidad, la calidad y los mejores valores del mercado"
           }
