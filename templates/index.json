@@ -187,9 +187,9 @@
         "1644472934f1436359-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "VER ESPEJOS",
-            "button_link_1": "shopify:\/\/collections\/espejos",
-            "button_style_secondary_1": true,
+            "button_label_1": "DISEÑO PERSONALIZADO",
+            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
@@ -200,8 +200,8 @@
         "1644472934f1436359-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/CLAO.jpg",
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/IMG_7783_2.jpg",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": false,
@@ -209,6 +209,34 @@
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "1644460662d1622fa1": {
+      "type": "image-with-text",
+      "blocks": {
+        "16444606629a583abf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>MODERNIZA TU ESPACIO<\/strong><\/p><p>LA ÚLTIMA TENDENCIA PARA TU BAÑO, UN ESPEJO REDONDO<\/p>"
+          }
+        },
+        "16444606629a583abf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Comprar",
+            "button_link": "shopify:\/\/products\/circular-retroiluminado"
+          }
+        }
+      },
+      "block_order": [
+        "16444606629a583abf-1",
+        "16444606629a583abf-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/BANO_6c435788-651b-49b5-9c62-db4064b5fa0c.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "text_first"
       }
     },
     "16444652299f8fe5c0": {
@@ -248,34 +276,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
-      }
-    },
-    "1644460662d1622fa1": {
-      "type": "image-with-text",
-      "blocks": {
-        "16444606629a583abf-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>MODERNIZA TU ESPACIO<\/strong><\/p><p>LA ÚLTIMA TENDENCIA PARA TU BAÑO, UN ESPEJO REDONDO<\/p>"
-          }
-        },
-        "16444606629a583abf-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Comprar",
-            "button_link": "shopify:\/\/products\/circular-retroiluminado"
-          }
-        }
-      },
-      "block_order": [
-        "16444606629a583abf-1",
-        "16444606629a583abf-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/BANO_6c435788-651b-49b5-9c62-db4064b5fa0c.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
       }
     },
     "1647410995643f95d1": {
@@ -393,8 +393,8 @@
     "featured_products",
     "1643518583b0027683",
     "16444729349e8638c1",
-    "16444652299f8fe5c0",
     "1644460662d1622fa1",
+    "16444652299f8fe5c0",
     "1647410995643f95d1",
     "video",
     "multi_column",
