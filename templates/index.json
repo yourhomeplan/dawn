@@ -50,6 +50,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "ESPEJOS PARA COLGAR O APOYAR ILUMINA Y AMPLIA TUS ESPACIOS",
             "heading_size": "large"
