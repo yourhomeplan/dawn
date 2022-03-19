@@ -34,7 +34,7 @@
         "1647659744089a0a8d-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_7754.jpg",
+        "image": "shopify:\/\/shop_images\/ARRIBA.jpg",
         "image_height": "medium",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
@@ -51,8 +51,8 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Somos una gran familia especializada en el sector de la cristalería. Nuestra política empresarial se basa en los pilares de la innovación, la sostenibilidad, la calidad y los mejores valores del mercado",
-            "heading_size": "medium"
+            "heading": "ESPEJOS PARA COLGAR O APOYAR ILUMINA Y AMPLIA TUS ESPACIOS",
+            "heading_size": "large"
           }
         },
         "button": {
@@ -70,7 +70,7 @@
         "b22842f4-eaa3-4399-894b-caed0419375a": {
           "type": "text",
           "settings": {
-            "text": "EL COMPLEMENTO IDEAL PARA TU HOGAR"
+            "text": "Somos una gran familia especializada en el sector de la cristalería. Nuestra política empresarial se basa en los pilares de la innovación, la sostenibilidad, la calidad y los mejores valores del mercado"
           }
         }
       },
@@ -80,10 +80,9 @@
         "b22842f4-eaa3-4399-894b-caed0419375a"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_5997.jpg",
-        "image_2": "shopify:\/\/shop_images\/IMG_5836_2.jpg",
+        "image": "shopify:\/\/shop_images\/ABAJO.jpg",
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
         "show_text_box": false,
         "image_overlay_opacity": 10,
