@@ -1,17 +1,63 @@
 {
   "sections": {
+    "1647659745beaaa2ef": {
+      "type": "image-banner",
+      "blocks": {
+        "1647659744089a0a8d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hasta 25% de DESCUENTO en ESPEJOS",
+            "heading_size": "large"
+          }
+        },
+        "0cbec65a-639d-4d40-8c33-6920d98f5a7d": {
+          "type": "text",
+          "settings": {
+            "text": "APROVECHA DESCUENTO EN VARIOS MODELOS DE ESPEJOS CON FORMAS Y LUCES"
+          }
+        },
+        "1647659744089a0a8d-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Ver Productos",
+            "button_link_1": "shopify:\/\/collections\/espejos",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1647659744089a0a8d-0",
+        "0cbec65a-639d-4d40-8c33-6920d98f5a7d",
+        "1647659744089a0a8d-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_7754.jpg",
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 20,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Refleja tu estilo",
+            "heading": "Somos una gran familia especializada en el sector de la cristalería. Nuestra política empresarial se basa en los pilares de la innovación, la sostenibilidad, la calidad y los mejores valores del mercado",
             "heading_size": "medium"
           }
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Ver todos los modelos",
             "button_link_1": "shopify:\/\/collections\/all",
@@ -36,7 +82,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_5997.jpg",
         "image_2": "shopify:\/\/shop_images\/IMG_5836_2.jpg",
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_text_box_position": "flex-end",
         "show_text_box": false,
@@ -341,6 +387,7 @@
     }
   },
   "order": [
+    "1647659745beaaa2ef",
     "image_banner",
     "rich_text",
     "featured_products",
