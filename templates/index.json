@@ -219,7 +219,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG_7785.jpg",
-        "image_height": "large",
+        "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
         "show_text_box": true,
