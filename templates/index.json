@@ -58,6 +58,7 @@
         },
         "button": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Ver todos los modelos",
             "button_link_1": "shopify:\/\/collections\/all",
