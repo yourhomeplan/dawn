@@ -257,6 +257,22 @@
         "layout": "text_first"
       }
     },
+    "1647410995643f95d1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Decoración de pared",
+        "collection": "decoracion-de-pared",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "16444652299f8fe5c0": {
       "type": "multicolumn",
       "blocks": {
@@ -294,22 +310,6 @@
         "button_label": "",
         "button_link": "",
         "swipe_on_mobile": true
-      }
-    },
-    "1647410995643f95d1": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Decoración de pared",
-        "collection": "decoracion-de-pared",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "add_image_padding": false,
-        "show_image_outline": true,
-        "show_vendor": false,
-        "show_rating": false
       }
     },
     "video": {
@@ -412,8 +412,8 @@
     "1643518583b0027683",
     "16444729349e8638c1",
     "1644460662d1622fa1",
-    "16444652299f8fe5c0",
     "1647410995643f95d1",
+    "16444652299f8fe5c0",
     "video",
     "multi_column",
     "1643355282342c905c"
