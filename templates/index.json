@@ -13,7 +13,7 @@
         "0cbec65a-639d-4d40-8c33-6920d98f5a7d": {
           "type": "text",
           "settings": {
-            "text": "APROVECHA DESCUENTO EN VARIOS MODELOS DE ESPEJOS CON FORMAS Y LUCES"
+            "text": "APROVECHA DESCUENTOS EN VARIOS MODELOS DE ESPEJOS CON FORMAS Y LUCES"
           }
         },
         "1647659744089a0a8d-2": {
@@ -58,7 +58,6 @@
         },
         "button": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
             "button_label_1": "Ver todos los modelos",
             "button_link_1": "shopify:\/\/collections\/all",
