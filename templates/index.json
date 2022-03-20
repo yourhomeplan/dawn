@@ -197,7 +197,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "DISEÑO PERSONALIZADO",
-            "button_link_1": "shopify:\/\/pages\/contact",
+            "button_link_1": "shopify:\/\/pages\/quieres-una-medida-o-forma-espesifica",
             "button_style_secondary_1": true,
             "button_label_2": "VER MODELOS DISPONIBLES",
             "button_link_2": "shopify:\/\/products\/iregulares-grandes",
