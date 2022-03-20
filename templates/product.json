@@ -77,7 +77,7 @@
       "type": "product-recommendations",
       "settings": {
         "heading": "También te puede interesar",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "show_secondary_image": false,
         "add_image_padding": false,
         "show_image_outline": true,
