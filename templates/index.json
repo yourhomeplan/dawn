@@ -10,12 +10,6 @@
             "heading_size": "large"
           }
         },
-        "0cbec65a-639d-4d40-8c33-6920d98f5a7d": {
-          "type": "text",
-          "settings": {
-            "text": "APROVECHA DESCUENTOS EN VARIOS MODELOS DE ESPEJOS CON FORMAS Y LUCES"
-          }
-        },
         "1647659744089a0a8d-2": {
           "type": "buttons",
           "settings": {
@@ -26,12 +20,18 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "0cbec65a-639d-4d40-8c33-6920d98f5a7d": {
+          "type": "text",
+          "settings": {
+            "text": "APROVECHA DESCUENTOS EN VARIOS MODELOS DE ESPEJOS CON FORMAS Y LUCES"
+          }
         }
       },
       "block_order": [
         "1647659744089a0a8d-0",
-        "0cbec65a-639d-4d40-8c33-6920d98f5a7d",
-        "1647659744089a0a8d-2"
+        "1647659744089a0a8d-2",
+        "0cbec65a-639d-4d40-8c33-6920d98f5a7d"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ARRIBA.jpg",
@@ -50,10 +50,15 @@
       "blocks": {
         "heading": {
           "type": "heading",
-          "disabled": true,
           "settings": {
-            "heading": "ESPEJOS PARA COLGAR O APOYAR ILUMINA Y AMPLIA TUS ESPACIOS",
+            "heading": "CONCEPTO & DISEÑOS",
             "heading_size": "large"
+          }
+        },
+        "b22842f4-eaa3-4399-894b-caed0419375a": {
+          "type": "text",
+          "settings": {
+            "text": "DECORA CON NUESTRA HERMOSA VARIEDAD DE ESPEJOS DECORATIVOS"
           }
         },
         "button": {
@@ -67,19 +72,12 @@
             "button_link_2": "shopify:\/\/pages\/contact",
             "button_style_secondary_2": true
           }
-        },
-        "b22842f4-eaa3-4399-894b-caed0419375a": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Somos una gran familia especializada en el sector de la cristalería. Nuestra política empresarial se basa en los pilares de la innovación, la sostenibilidad, la calidad y los mejores valores del mercado"
-          }
         }
       },
       "block_order": [
         "heading",
-        "button",
-        "b22842f4-eaa3-4399-894b-caed0419375a"
+        "b22842f4-eaa3-4399-894b-caed0419375a",
+        "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ABAJO_21d53dfa-7700-474e-a0ba-15dc7b040226.jpg",
@@ -87,9 +85,9 @@
         "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
         "show_text_box": false,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
+        "image_overlay_opacity": 10,
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": false,
         "show_text_below": false
       }
     },
