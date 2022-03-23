@@ -50,6 +50,7 @@
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "CONCEPTO & DISEÑOS",
             "heading_size": "large"
@@ -57,6 +58,7 @@
         },
         "b22842f4-eaa3-4399-894b-caed0419375a": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "AMPLIA E ILUMINA LOS ESPACIOS DE TU HOGAR CON NUESTRA VARIEDAD DE ESPEJOS"
           }
@@ -85,7 +87,7 @@
         "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
         "show_text_box": false,
-        "image_overlay_opacity": 10,
+        "image_overlay_opacity": 0,
         "color_scheme": "accent-1",
         "stack_images_on_mobile": false,
         "show_text_below": false
