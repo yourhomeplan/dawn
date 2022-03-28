@@ -30,7 +30,14 @@
     {% endif %}
 
     {% render 'meta-tags' %}
-
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-308219501"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag()
+      gtag('js', new Date());
+      gtag('config', 'G-308219501');
+    </script>
     <script src="{{ 'global.js' | asset_url }}" defer="defer"></script>
     {{ content_for_header }}
 
