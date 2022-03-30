@@ -229,6 +229,48 @@
         "show_text_below": true
       }
     },
+    "16486183399247e9fa": {
+      "type": "collage",
+      "blocks": {
+        "16983413-1bee-4cd7-93d7-35cb8409362c": {
+          "type": "product",
+          "settings": {
+            "product": "organizador-3-niveles",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "c5c84bb2-41c3-468e-8c31-02503385013c": {
+          "type": "product",
+          "settings": {
+            "product": "organizador-4-niveles",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        },
+        "16486183397f7bfa76-1": {
+          "type": "product",
+          "settings": {
+            "product": "organizador-de-metal",
+            "second_image": false,
+            "image_padding": false,
+            "secondary_background": false
+          }
+        }
+      },
+      "block_order": [
+        "16983413-1bee-4cd7-93d7-35cb8409362c",
+        "c5c84bb2-41c3-468e-8c31-02503385013c",
+        "16486183397f7bfa76-1"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
     "1644460662d1622fa1": {
       "type": "image-with-text",
       "blocks": {
@@ -411,6 +453,7 @@
     "featured_products",
     "1643518583b0027683",
     "16444729349e8638c1",
+    "16486183399247e9fa",
     "1644460662d1622fa1",
     "1647410995643f95d1",
     "16444652299f8fe5c0",
