@@ -229,6 +229,22 @@
         "show_text_below": true
       }
     },
+    "1648620460f788ae7c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "collection": "muebles-decorativos",
+        "products_to_show": 4,
+        "show_view_all": false,
+        "swipe_on_mobile": true,
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
+      }
+    },
     "16486183399247e9fa": {
       "type": "collage",
       "disabled": true,
@@ -318,6 +334,7 @@
     },
     "16444652299f8fe5c0": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "0cf6af3c-757e-4cac-822a-7e68208d9d6b": {
           "type": "column",
@@ -357,6 +374,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "PRODUCTO DE LA MARCA",
         "cover_image": "shopify:\/\/shop_images\/IMG_6405.jpg",
@@ -454,6 +472,7 @@
     "featured_products",
     "1643518583b0027683",
     "16444729349e8638c1",
+    "1648620460f788ae7c",
     "16486183399247e9fa",
     "1644460662d1622fa1",
     "1647410995643f95d1",
