@@ -184,6 +184,7 @@
     },
     "16444729349e8638c1": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "d8b6a99c-7aa8-4048-8a2b-cd76404c1bd5": {
           "type": "heading",
