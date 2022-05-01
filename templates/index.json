@@ -375,6 +375,7 @@
     },
     "video": {
       "type": "video",
+      "disabled": true,
       "settings": {
         "heading": "PRODUCTO DE LA MARCA",
         "cover_image": "shopify:\/\/shop_images\/IMG_6405.jpg",
