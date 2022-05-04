@@ -47,7 +47,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -83,7 +82,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/ABAJO_21d53dfa-7700-474e-a0ba-15dc7b040226.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_8755_2.jpg",
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "flex-end",
