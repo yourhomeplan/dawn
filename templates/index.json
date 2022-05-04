@@ -47,7 +47,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -151,7 +150,7 @@
         "164351858274599923-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8732.jpg",
+            "image": "shopify:\/\/shop_images\/IMG_8764.jpg",
             "title": "",
             "text": "",
             "link_label": "",
