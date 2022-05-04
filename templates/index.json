@@ -37,7 +37,7 @@
         "image": "shopify:\/\/shop_images\/IMG_8752_2.jpg",
         "image_height": "small",
         "adapt_height_first_image": true,
-        "desktop_text_box_position": "center",
+        "desktop_text_box_position": "flex-end",
         "show_text_box": false,
         "image_overlay_opacity": 20,
         "color_scheme": "background-1",
