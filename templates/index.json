@@ -41,8 +41,8 @@
         "show_text_box": false,
         "image_overlay_opacity": 20,
         "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "image_banner": {
