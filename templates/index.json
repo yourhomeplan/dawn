@@ -130,6 +130,41 @@
         "full_width": true
       }
     },
+    "1653889929b3f170a2": {
+      "type": "image-with-text",
+      "blocks": {
+        "165388992999cbf34a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "!OFERTA¡ 50%DCTO"
+          }
+        },
+        "165388992999cbf34a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aprovecha este CYBERDAY y renueva tu baño con un espejo circular DESDE $29.990CLP<\/p>"
+          }
+        },
+        "165388992999cbf34a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "COMPRAR",
+            "button_link": "shopify:\/\/products\/circular"
+          }
+        }
+      },
+      "block_order": [
+        "165388992999cbf34a-0",
+        "165388992999cbf34a-1",
+        "165388992999cbf34a-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Grange_MTR_Designer_Cabinets_-_copia_-_copia.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -472,6 +507,7 @@
     "1647659745beaaa2ef",
     "image_banner",
     "rich_text",
+    "1653889929b3f170a2",
     "featured_products",
     "1643518583b0027683",
     "16444729349e8638c1",
