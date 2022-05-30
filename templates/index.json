@@ -160,7 +160,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Grange_MTR_Designer_Cabinets_-_copia_-_copia.jpg",
-        "height": "adapt",
+        "height": "large",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
