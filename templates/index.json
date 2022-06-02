@@ -160,7 +160,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/rectangularis.jpg",
-        "height": "large",
+        "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
       }
