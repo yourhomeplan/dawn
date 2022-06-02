@@ -149,7 +149,7 @@
           "type": "button",
           "settings": {
             "button_label": "COMPRAR",
-            "button_link": "shopify:\/\/products\/circular"
+            "button_link": "shopify:\/\/products\/rectangular-retroiluminado"
           }
         }
       },
