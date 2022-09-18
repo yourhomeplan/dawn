@@ -361,6 +361,45 @@
         "layout": "image_first"
       }
     },
+    "166347119273d282a7": {
+      "type": "multicolumn",
+      "blocks": {
+        "16634711923232b629-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0351.jpg",
+            "title": "Mueble Flotante",
+            "text": "<p>Nuestro equipo de arquitectos y diseñadores convertirá tu proyecto en realidad. Diseñamos, fabricamos e instalamos el Proyecto de tus sueños<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "16634711923232b629-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0359.jpg",
+            "title": "",
+            "text": "<p>Cocinas cómodas y funcionales , el nuevo concepto del lugar  mas concurrido en nuestro hogar<\/p><p>Tuplanhogar te ayudará a construirla en forma personalizada.<\/p>",
+            "link_label": "COTIZAR",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "16634711923232b629-1",
+        "16634711923232b629-0"
+      ],
+      "settings": {
+        "title": "Muebles de Cocina",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
+    },
     "1644460662d1622fa1": {
       "type": "image-with-text",
       "blocks": {
@@ -533,6 +572,7 @@
     "16486183399247e9fa",
     "166347116574a73bd1",
     "16634705404daad756",
+    "166347119273d282a7",
     "1644460662d1622fa1",
     "16444652299f8fe5c0",
     "video",
