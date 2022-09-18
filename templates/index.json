@@ -220,51 +220,6 @@
         "swipe_on_mobile": false
       }
     },
-    "16444729349e8638c1": {
-      "type": "image-banner",
-      "blocks": {
-        "46a61ab8-6f56-49e1-85b0-23c9bccf0ab3": {
-          "type": "heading",
-          "settings": {
-            "heading": "SHOWER DOORS",
-            "heading_size": "medium"
-          }
-        },
-        "1644472934f1436359-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "COTIZAR",
-            "button_link_1": "shopify:\/\/pages\/quieres-una-medida-o-forma-espesifica",
-            "button_style_secondary_1": false,
-            "button_label_2": "CONTACTO",
-            "button_link_2": "shopify:\/\/pages\/contact",
-            "button_style_secondary_2": true
-          }
-        },
-        "dcca9656-3d92-4285-ac4a-28238637646c": {
-          "type": "text",
-          "settings": {
-            "text": "cotiza con nosotros y transforma tu baño con nuestros shower modernos"
-          }
-        }
-      },
-      "block_order": [
-        "46a61ab8-6f56-49e1-85b0-23c9bccf0ab3",
-        "1644472934f1436359-2",
-        "dcca9656-3d92-4285-ac4a-28238637646c"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_0361.jpg",
-        "image_height": "small",
-        "adapt_height_first_image": true,
-        "desktop_text_box_position": "flex-end",
-        "show_text_box": false,
-        "image_overlay_opacity": 0,
-        "color_scheme": "background-1",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "1648620460f788ae7c": {
       "type": "featured-collection",
       "disabled": true,
@@ -323,6 +278,87 @@
         "heading": "",
         "desktop_layout": "left",
         "mobile_layout": "collage"
+      }
+    },
+    "166347116574a73bd1": {
+      "type": "image-banner",
+      "blocks": {
+        "c5f49af4-9e75-4b3e-b2cf-aac3d2459629": {
+          "type": "heading",
+          "settings": {
+            "heading": "RENUEVA TU BAÑO",
+            "heading_size": "large"
+          }
+        },
+        "c02474c0-91a8-44a7-98c9-faacaac670b6": {
+          "type": "text",
+          "settings": {
+            "text": "SHOWERDOOR \/ MAMPARAS A MEDIDA  puertas y cristales para duchas y tinas de cerramientos transparentes que permiten remplazar las cortinas de baño."
+          }
+        },
+        "564f5743-27c7-453c-8253-801eb719d2cc": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "c5f49af4-9e75-4b3e-b2cf-aac3d2459629",
+        "c02474c0-91a8-44a7-98c9-faacaac670b6",
+        "564f5743-27c7-453c-8253-801eb719d2cc"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0377.jpg",
+        "image_height": "small",
+        "adapt_height_first_image": true,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "accent-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "16634705404daad756": {
+      "type": "image-with-text",
+      "blocks": {
+        "1663470539e0d9a031-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shower Doors"
+          }
+        },
+        "1663470539e0d9a031-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shower Door es la línea de puertas y cristales para duchas y tinas. Las soluciones incluyen diferentes modelos, que se adaptan a las diferentes situaciones y tamaños existentes e incorporando lo último en tecnología, cristales y herrajes. <\/p>"
+          }
+        },
+        "1663470539e0d9a031-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Cotizar",
+            "button_link": "shopify:\/\/pages\/quieres-una-medida-o-forma-espesifica"
+          }
+        }
+      },
+      "block_order": [
+        "1663470539e0d9a031-0",
+        "1663470539e0d9a031-1",
+        "1663470539e0d9a031-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/IMG_0362.jpg",
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
       }
     },
     "1644460662d1622fa1": {
@@ -493,9 +529,10 @@
     "1653889929b3f170a2",
     "featured_products",
     "1643518583b0027683",
-    "16444729349e8638c1",
     "1648620460f788ae7c",
     "16486183399247e9fa",
+    "166347116574a73bd1",
+    "16634705404daad756",
     "1644460662d1622fa1",
     "16444652299f8fe5c0",
     "video",
