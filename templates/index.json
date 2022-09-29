@@ -6,7 +6,7 @@
         "1647659744089a0a8d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Hasta 35% de DESCUENTO en ESPEJOS",
+            "heading": "¡Envios GRATIS en toda la region metropolitana!",
             "heading_size": "large"
           }
         },
@@ -23,7 +23,6 @@
         },
         "0cbec65a-639d-4d40-8c33-6920d98f5a7d": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "APROVECHA DESCUENTOS EN VARIOS MODELOS DE ESPEJOS CON FORMAS Y LUCES"
           }
@@ -35,7 +34,7 @@
         "0cbec65a-639d-4d40-8c33-6920d98f5a7d"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/IMG_8752_2.jpg",
+        "image": "shopify:\/\/shop_images\/IMG_0516_2.jpg",
         "image_height": "small",
         "adapt_height_first_image": true,
         "desktop_text_box_position": "center",
